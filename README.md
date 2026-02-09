@@ -1,2 +1,2 @@
-# Riddles-
+# Riddles
 My riddle 
